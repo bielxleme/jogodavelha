@@ -1,6 +1,5 @@
 # jogodavelha
-
- echo Código de mudança de X para O:
+ //Código dos botões (btn) para alteração de imagens e  da ordem de jogabilidade
 private void btn2ActionPerformed(java.awt.event.ActionEvent evt) {                                     
         
         if(semRepet2 ==0){
